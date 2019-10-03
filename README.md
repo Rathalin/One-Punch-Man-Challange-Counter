@@ -1,5 +1,5 @@
 # One-Punch-Man-Challange-Counter ![icon](https://github.com/Rhatalin/One-Punch-Man-Challange-Counter/blob/master/SaitamaChallangeCounter/Images/OPM_face_64.png)
-Always keep have an eye on your progress by using the One Punch Man Challange Counter on your desktop.
+Always keep an eye on your progress by using the One Punch Man Challange Counter for your desktop.
 
 ## Demo
 
