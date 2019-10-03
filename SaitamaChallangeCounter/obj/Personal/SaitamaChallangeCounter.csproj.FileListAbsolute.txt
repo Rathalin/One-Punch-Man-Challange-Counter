@@ -1,0 +1,17 @@
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\bin\PersonalUsage\SaitamaChallangeCounter.exe.config
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\bin\PersonalUsage\SaitamaChallangeCounter.exe
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\bin\PersonalUsage\SaitamaChallangeCounter.pdb
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\BootstrapImitation.baml
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\MainWindow.g.cs
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\App.g.cs
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\SaitamaChallangeCounter_MarkupCompile.cache
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\SaitamaChallangeCounter_MarkupCompile.lref
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\App.baml
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\MainWindow.baml
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\SaitamaChallangeCounter.g.resources
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\SaitamaChallangeCounter.Properties.Resources.resources
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\SaitamaChallangeCounter.csproj.GenerateResource.cache
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\SaitamaChallangeCounter.csproj.CoreCompileInputs.cache
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\SaitamaChallangeCounter.exe
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\SaitamaChallangeCounter.pdb
+D:\OneDrive - students.fh-hagenberg.at\Projects\VisualStudio 2019 Projects\C#\WPF\SaitamaChallangeCounter\SaitamaChallangeCounter\obj\Personal\SaitamaChallangeCounter.csprojAssemblyReference.cache
